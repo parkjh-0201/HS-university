@@ -1,2 +1,0 @@
-# HANSHIN-university
-PJH
