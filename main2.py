@@ -40,7 +40,7 @@ except KeyboardInterrupt:
     # 'Ctrl + C'로 모든 프로그램 종료 시 예외 처리 
     pass
 
-# 프로그램 종료시 모든 신호등 X
+# 프로그램 종료시 모든 LED X
 carLedRed.value = 0
 carLedYellow.value = 0
 carLedGreen.value = 0
